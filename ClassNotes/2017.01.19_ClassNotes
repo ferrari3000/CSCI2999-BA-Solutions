@@ -1,0 +1,42 @@
+Step one complete - idenitifed problem
+
+Today --
+discuss problem
+	resources
+	try to define (narrow) scope of the issue (in next three weeks)
+	solve the problem
+	
+Scope is to guide us
+	try not to change the scope during implementation
+	(scope creep [unexpected changes] -- used the credit card example)
+	
+In planning phase we have a couple meetings (use team members)
+
+complete definition of the problem and define solution (1hr)
+
+B.A. Solutions
+	Define problem:
+	We will be working for m&p records. We evaluate their needs.
+	m&p came to us due to loosing $100K and 5% of their customer base. If they keep going the way they are going they are not going to have a business.
+	we interview owners about process. 
+		They have:
+			-Antiquated business practices and outdated inventory systems. 
+			-Poor advertising and no web presence.
+			
+			
+	What is the budget?  ($150K)
+	What is the timeline for completion? (60 days)
+	
+	Solution:
+		IT Solution and Front End Interface with Back End support
+		Accounting System
+		Access or SQL Server Database
+		Marketing and advertising materials
+		Training 
+		Internet and Intranet 
+		Hardware and Software Component
+		PowerPoint Presentation
+
+		
+		
+	
