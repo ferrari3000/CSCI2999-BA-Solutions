@@ -1,0 +1,1 @@
+•	Cost Summary – This section must provide information such as cost/benefit analysis, economic feasibility, development costs (hardware and software), maintenance and support, cost benefits analysis (ongoing costs, project benefits, etc.). 
