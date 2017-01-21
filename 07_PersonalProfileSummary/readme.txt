@@ -1,0 +1,1 @@
+•	Personnel Profile Summary – This section must include the candidate’s name, resumes, references, education and training, mandatory technical experience, and professional experience which demonstrates the candidates has experience on projects of similar size and scope.
