@@ -1,0 +1,1 @@
+•	Cover Letter/Executive Summary – a summary of the services provided, primary contact name, address, and telephone number, and email address of the person authorized to answer questions regarding the proposal, and a statement that the term in the proposal are valid for at least one-hundred and twenty days.
