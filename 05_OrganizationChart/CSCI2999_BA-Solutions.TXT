@@ -1,0 +1,27 @@
+Name,Reports_to,Title,Department,Telephone
+
+Trent Foor, ,CEO:Web Development,Executive,x1111
+Ed Petry,Trent Foor,Development Manager:Database,Product Development,x2222
+Nicola Coppolino,Trent Foor,Development Manager:Software,Product Development,x3333
+Kyle Malowski, Trent Foor,Development Manager:IT,Product Development,x4444
+
+Employee #10,Ed Petry,Software Developer,Product Development,x2223
+Employee #11,Ed Petry,Software Developer,Product Development,x2224
+Employee #12,Ed Petry,Software Developer,Product Development,x2225
+Employee #13,Ed Petry,Software Developer,Product Development,x2226
+Employee #14,Ed Petry,Software Developer,Product Development,x2227
+Employee #15,Ed Petry,Software Developer,Product Development,x2223
+Employee #16,Ed Petry,Software Developer,Product Development,x2229
+Employee #17,Ed Petry,Software Developer,Product Development,x2230
+Employee #18,Ed Petry,Software Developer,Product Development,x2231
+Employee #19,Ed Petry,Software Developer,Product Development,x2232
+Employee #20,Ed Petry,Software Developer,Product Development,x2233
+Employee #21,Ed Petry,Software Developer,Product Development,x2234
+Employee #22,Ed Petry,Software Developer,Product Development,x2235
+Employee #23,Ed Petry,Software Developer,Product Development,x2236
+Employee #24,Ed Petry,Software Developer,Product Development,x2237
+Employee #25,Ed Petry,Software Developer,Product Development,x2238
+
+Employee #40,Nicola Coppolino,Software Developer,Product Development,x3335
+Employee #70,Kyle Malowski,Software Developer,Product Development,x4446
+Employee #100,Ed Petry,Software Developer,Product Development,x2223
