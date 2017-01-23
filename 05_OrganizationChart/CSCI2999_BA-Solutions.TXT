@@ -3,7 +3,7 @@ Name,Reports_to,Title,Department,Telephone
 Trent Foor, ,CEO:Web Development,Executive,x1111
 Ed Petry,Trent Foor,Development Manager:Database,Product Development,x2222
 Nicola Coppolino,Trent Foor,Development Manager:Software,Product Development,x3333
-Kyle Malowski, Trent Foor,Development Manager:IT,Product Development,x4444
+Kyle Malkowski, Trent Foor,Development Manager:IT,Product Development,x4444
 
 Employee #10,Ed Petry,Software Developer,Product Development,x2223
 Employee #11,Ed Petry,Software Developer,Product Development,x2224
@@ -23,5 +23,5 @@ Employee #24,Ed Petry,Software Developer,Product Development,x2237
 Employee #25,Ed Petry,Software Developer,Product Development,x2238
 
 Employee #40,Nicola Coppolino,Software Developer,Product Development,x3335
-Employee #70,Kyle Malowski,Software Developer,Product Development,x4446
+Employee #70,Kyle Malkowski,Software Developer,Product Development,x4446
 Employee #100,Ed Petry,Software Developer,Product Development,x2223
