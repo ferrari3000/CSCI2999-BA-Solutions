@@ -1,0 +1,40 @@
+Class notes -- 2017.02.07
+
+This week
+
+Create finalcial system
+
+gather requirements
+interviews
+observe
+you can not develop a system by yourself -- need input from customer
+create document history
+document has the development instructions
+
+-------------------
+log in screen
+	capture who wants to get into the system
+first screen after login	
+	after successfully loging in --
+		first screen is to capture information 
+		date means calendar
+		state means drop down box
+		auto insert unique numbers
+		name of screen
+		all attributes of the screen
+		add buttons needed by screen
+next screen
+	search box
+you will have 10-15 screens
+have a menu form to select what form you want to see
+need reports
+general ledger does not have to update the ledger - only show the ledger opens when a button is pressed/clicked
+-----------------------------------
+**list data elements of your forms
+if internet and intranet do not launch from your form -ok.  provide link on form
+
+show current state of the network and also what is proposed
+
+add payment on line using credit card
+
+	

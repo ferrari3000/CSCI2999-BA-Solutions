@@ -1,0 +1,83 @@
+Class Notes 2017.02.09
+
+http://storage.cscc.edu/
+
+relational DB is a group of interrelated tables connected by a key (primary key)
+
+flat file was prior to rel DB
+
+field = one cell 
+record = group of inter-related fields
+file =  group of inter-related records
+attribute is a charactoristic of a field
+have correct attributes for each field
+primary key
+foreign key
+composite key
+
+1:1
+1:M
+0:M
+
+
+customer DB
+
+name			order			payment
+custID			order ID		paymentID
+custname		custID
+custaddr
+
+
+
+
+custID is primary key in name table
+custID is foreign key in the order table (0:M)
+orderID is foreign key in payment table (1:1)
+
+
+A DB is just tables related together
+
+
+naming convention:important for ensuring everyone uses the same names for fields
+	
+define names and fields using good names
+discuss needs for the DB with the users/customer
+	
+	SECOND TOPIC TONIGHT
+Need to start documenting our project
+
+Need to create business documents
+business rules are what things happen
+	bus rules is what we are graded one
+
+business process
+	offical how things happen
+	
+
+businees rule is not the same as business process
+
+
+Who is doing the documentation?  Kyle
+Who is doing the powerpoint? Nico
+Who is doing the internet/intranet/extranet? Trent
+Who is doing the marketing material? Trent
+Who is doing the app? Ed
+Who is doing the excel? Kyle
+Who is doing the DB? Ed
+Who is doing the Website? Trent
+Who is doing the accounts receivable/payable? Kyle
+Who is doing the network (current and future)? Nico
+Who is doing the binder? Kyle
+Who is doing the inventory? Ed
+Who is doing the
+Who is doing the
+Who is doing the
+Who is doing the
+Who is doing the
+Who is doing the
+
+	
+	
+	
+	
+

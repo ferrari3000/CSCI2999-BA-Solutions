@@ -1,0 +1,73 @@
+Class notes 
+2017.01.31
+
+
+before you design any system you need to know the requirments
+funtional requirments
+business requirements
+
+know solution
+
+
+login page
+registration page (needs validation on this page)
+
+
+login page
+	capture information
+		create account
+		signin
+			name first last
+			password
+			email addy
+			student ID
+			
+			security for employee to show what department you are logging into
+			input needs validation against what is expected (located in a secure db)
+			business rule - a certain number of attempts then lock password and require a call to IT
+			
+	registration page
+		name
+		email
+		a unique identifier (acct number, item number, whatever)
+		Buttons (submit, reset, cancel...whatever)
+		
+		zip code needs dropdown and validated to be numbers not letters
+		date needs calendar dropdown
+		
+		reg page needs validation
+		
+	click reset - everything erases and resets
+	click cancel - closes the popup
+	click submit - need confirmation info was entered and saved
+	you can have drop downs for all input fields
+	
+	search function
+	
+	login as employee and manager
+		employee sees some records
+		manager sees all records
+		
+	need to see valid information on screen for all security levels
+	
+	add an update function to your forms
+	add an delete function to your forms
+	search your forms for updates and deletions
+	
+	what your requirement documents say your app should do.
+	
+	5 to 10 forms for your application
+	
+	
+	You need requirements before coding, designing or other tech functions. You need to know what to do before doing.
+	
+	Always ensure what you are coding/developing meets the customers needs (requirements).
+	
+	
+	
+		
+		
+		
+		
+			
+			
